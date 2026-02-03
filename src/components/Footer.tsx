@@ -77,7 +77,7 @@ export default function Footer() {
               key={i}
               className="font-[family-name:var(--font-display)] text-4xl md:text-6xl font-light text-warm-white/5 mx-8"
             >
-              Wanderlust & Co. • Discover the Extraordinary •
+              Go Pacific Travel • Discover the Extraordinary •
             </span>
           ))}
         </div>
@@ -97,7 +97,7 @@ export default function Footer() {
               href="#"
               className="font-[family-name:var(--font-display)] text-2xl md:text-3xl font-light tracking-wide inline-block mb-6"
             >
-              Wanderlust<span className="text-gold">&</span>Co.
+              Go Pacific Travel
             </a>
             <p className="text-warm-white/60 font-light leading-relaxed mb-8 max-w-sm">
               Crafting extraordinary journeys for discerning travelers since 2015.
@@ -189,7 +189,7 @@ export default function Footer() {
         <div className="max-w-[1800px] mx-auto px-6 md:px-12 lg:px-20 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-warm-white/40 text-sm font-light">
-              © 2026 Wanderlust & Co. All rights reserved.
+              © 2026 Go Pacific Travel. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-warm-white/40 text-sm font-light hover:text-gold transition-colors">

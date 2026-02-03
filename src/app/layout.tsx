@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Wanderlust & Co. | Curated Travel Experiences",
+  title: "Go Pacific Travel | Curated Travel Experiences",
   description: "Discover extraordinary destinations with our bespoke travel experiences. Luxury journeys crafted for the discerning explorer.",
 };
 

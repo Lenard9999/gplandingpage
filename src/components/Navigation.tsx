@@ -41,7 +41,7 @@ export default function Navigation() {
               href="#"
               className="font-[family-name:var(--font-display)] text-2xl md:text-3xl font-light tracking-wide text-charcoal"
             >
-              Wanderlust<span className="text-gold">&</span>Co.
+              Go Pacific Travel
             </a>
 
             {/* Desktop Navigation */}
