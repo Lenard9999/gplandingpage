@@ -37,7 +37,7 @@ export default function Navigation() {
             {/* Logo - Made bolder */}
             <a
               href="#"
-              style={{ fontFamily: "'Bauhaus 93', 'Bauhaus', sans-serif" }}
+              style={{ fontFamily: "var(--font-logo)" }}
               className={`text-2xl md:text-3xl tracking-wide transition-colors duration-300 ${
                 isScrolled ? 'text-white' : 'text-white'
               }`}
