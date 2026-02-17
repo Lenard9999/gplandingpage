@@ -84,7 +84,7 @@ export default function Contact() {
                 <div>
                   <div className="text-charcoal font-medium mb-1">Visit Us</div>
                   <div className="text-slate/70 font-light text-sm">
-                    123 Explorer's Lane, Suite 400
+                    123 Explorer`&apos;`s Lane, Suite 400
                     <br />
                     New York, NY 10001
                   </div>
