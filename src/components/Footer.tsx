@@ -100,7 +100,7 @@ export default function Footer() {
               Go Pacific Travel
             </a>
             <p className="text-warm-white/60 font-light leading-relaxed mb-8 max-w-sm">
-              Crafting extraordinary journeys for discerning travelers since 2015.
+              Crafting extraordinary journeys for discerning travelers since 1998.
               Every destination, every experience, tailored just for you.
             </p>
 

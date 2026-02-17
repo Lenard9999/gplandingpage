@@ -53,7 +53,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-gold text-sm md:text-base tracking-[0.3em] uppercase mb-6 font-light"
         >
-          Curated Travel Experiences Since 2015
+          Curated Travel Experiences Since 1998
         </motion.p>
 
         {/* Main Heading */}

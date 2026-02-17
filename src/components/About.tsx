@@ -83,7 +83,7 @@ export default function About() {
             >
               Crafting <span className="italic">Unforgettable</span>
               <br />
-              Moments Since 2015
+              Moments Since 1998
             </motion.h2>
 
             <motion.div
