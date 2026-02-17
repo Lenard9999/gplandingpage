@@ -7,7 +7,7 @@ const testimonials = [
   {
     id: 1,
     quote:
-      "Wanderlust & Co. transformed our honeymoon into the most magical experience of our lives. Every detail was perfect, from the private villa in Bali to the surprise sunset dinner on the beach.",
+      "Go Pacific Travel transformed our honeymoon into the most magical experience of our lives. Every detail was perfect, from the private villa in Bali to the surprise sunset dinner on the beach.",
     author: 'Sarah & Michael Thompson',
     location: 'Bali, Indonesia',
     image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=2788&auto=format&fit=crop',

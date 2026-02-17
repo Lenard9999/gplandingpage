@@ -93,7 +93,7 @@ export default function About() {
               className="space-y-6 mb-12"
             >
               <p className="text-slate font-light text-lg leading-relaxed">
-                At Wanderlust & Co., we believe travel is more than just visiting
+                At Go Pacific Travel, we believe travel is more than just visiting
                 places—it&apos;s about creating connections, discovering new perspectives,
                 and collecting moments that last a lifetime.
               </p>

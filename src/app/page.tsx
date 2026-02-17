@@ -14,10 +14,8 @@ export default function Home() {
       <Navigation />
       <Hero />
       <Destinations />
-      <Experiences />
       <About />
       <Testimonials />
-      <Journal />
       <Contact />
       <Footer />
     </main>

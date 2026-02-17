@@ -17,9 +17,7 @@ export default function Navigation() {
 
   const navLinks = [
     { name: 'Destinations', href: '#destinations' },
-    { name: 'Experiences', href: '#experiences' },
     { name: 'About', href: '#about' },
-    { name: 'Journal', href: '#journal' },
   ];
 
   return (
