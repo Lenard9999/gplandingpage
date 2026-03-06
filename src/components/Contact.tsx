@@ -83,11 +83,11 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-charcoal font-medium mb-1">Visit Us</div>
-                  <div className="text-slate/70 font-light text-sm">
-                    123 Explorer`&apos;`s Lane, Suite 400
-                    <br />
-                    New York, NY 10001
-                  </div>
+                    <div className="text-slate/70 font-light text-sm">
+                      530 Sto. Cristo St, Binondo
+                      <br />
+                      Manila, Metro Manila, Philippines
+                    </div>
                 </div>
               </div>
 
@@ -100,7 +100,7 @@ export default function Contact() {
                 <div>
                   <div className="text-charcoal font-medium mb-1">Email Us</div>
                   <div className="text-slate/70 font-light text-sm">
-                    hello@wanderlustandco.com
+                    helen@gopacific.ph
                   </div>
                 </div>
               </div>
@@ -114,7 +114,7 @@ export default function Contact() {
                 <div>
                   <div className="text-charcoal font-medium mb-1">Call Us</div>
                   <div className="text-slate/70 font-light text-sm">
-                    +1 (555) 123-4567
+                    +63 (02) 8559-5955
                   </div>
                 </div>
               </div>

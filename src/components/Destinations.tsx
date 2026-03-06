@@ -22,18 +22,18 @@ const destinations = [
   },
   {
     id: 3,
-    name: 'Marrakech',
-    country: 'Morocco',
-    image: 'https://images.unsplash.com/photo-1539020140153-e479b8c22e70?q=80&w=2787&auto=format&fit=crop',
-    description: 'A sensory journey through vibrant souks and riads',
+    name: 'Banff',
+    country: 'Canada',
+    image: 'https://images.unsplash.com/photo-1503614472-8c93d56e92ce?q=80&w=2940&auto=format&fit=crop',
+    description: 'Emerald lakes and towering peaks in the Canadian Rockies',
     price: 'From $2,800',
   },
   {
     id: 4,
-    name: 'Patagonia',
-    country: 'Chile',
-    image: 'https://images.unsplash.com/photo-1531794736324-dc70e3ce5860?q=80&w=2832&auto=format&fit=crop',
-    description: 'Untamed wilderness at the edge of the world',
+    name: 'Iceland',
+    country: 'Iceland',
+    image: 'https://images.unsplash.com/photo-1529963183134-61a90db47eaf?q=80&w=2940&auto=format&fit=crop',
+    description: 'Land of fire, ice, and dancing northern lights',
     price: 'From $5,500',
   },
 ];
@@ -140,9 +140,9 @@ export default function Destinations() {
                   {destination.description}
                 </motion.p>
                 <div className="flex items-center justify-between">
-                  <span className="text-warm-white/60 text-sm font-light">
+                  {/* <span className="text-warm-white/60 text-sm font-light">
                     {destination.price}
-                  </span>
+                  </span> */}
                   <motion.div
                     className="flex items-center gap-2 text-gold text-sm tracking-widest uppercase"
                     initial={{ opacity: 0, x: -20 }}
