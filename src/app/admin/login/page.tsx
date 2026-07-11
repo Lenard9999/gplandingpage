@@ -2,6 +2,7 @@
 
 import { useState, type FormEvent } from 'react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 import { createClient } from '@/lib/supabase/client';
 
 export default function AdminLoginPage() {
@@ -36,13 +37,13 @@ export default function AdminLoginPage() {
     <main className="min-h-screen flex items-center justify-center bg-midnight px-6">
       <div className="w-full max-w-sm">
         <div className="text-center mb-10">
-          <a
+          <Link
             href="/"
             style={{ fontFamily: 'var(--font-logo)' }}
             className="text-2xl tracking-wide text-warm-white"
           >
             Go Pacific Travel
-          </a>
+          </Link>
           <p className="mt-3 text-xs font-light tracking-widest uppercase text-sand-400">
             Admin Sign In
           </p>
